@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-LinkTree/static/css/main.55be1ec1.css",
+    "main.js": "/React-LinkTree/static/js/main.7d532a20.js",
+    "index.html": "/React-LinkTree/index.html",
+    "main.55be1ec1.css.map": "/React-LinkTree/static/css/main.55be1ec1.css.map",
+    "main.7d532a20.js.map": "/React-LinkTree/static/js/main.7d532a20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55be1ec1.css",
+    "static/js/main.7d532a20.js"
+  ]
+}
